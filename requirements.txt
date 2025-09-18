@@ -1,4 +1,2 @@
-streamlit
-openai
-sqlite3
-
+streamlit==1.25.0
+openai>=1.0.0
